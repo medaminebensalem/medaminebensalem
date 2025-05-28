@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
 ##  À propos de moi
-Bonjour ! Je suis **Mohamed-Amine Ben Salem**, étudiant en **sciences mathématiques et informatiques** à la Faculté Polydisciplinaire d'Ouarzazate (Université Ibn Zohr). Passionné par le développement web, j'ai une préférence pour le **front-end**, tout en explorant le **full-stack**.
+Bonjour ! Je suis **Mohamed Amine**, Développeur web. 
 
 ##  Compétences
 - **Développement Web** :  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
