@@ -28,7 +28,8 @@ Bonjour ! Je suis **Mohamed Amine**, Développeur web.
 - **System d'exploitation** :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 
-- **Gestion de projet**  : ![UML](https://img.shields.io/badge/UML-DarkBlue?style=for-the-badge&logo=uml&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> [<img src="https://img.icons8.com/ios-filled/50/0052CC/jira.png" width="40"/>](https://www.atlassian.com/software/jira)
+- **Gestion de projet**  : ![UML](https://img.shields.io/badge/UML-DarkBlue?style=for-the-badge&logo=uml&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 
