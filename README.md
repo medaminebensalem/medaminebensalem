@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=medaminebensalem&label=Profile%20views&color=0e75b6&style=flat)
 ##  À propos de moi
-Bonjour ! Je suis **Mohamed Amine**, Développeur web.
+Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/> 
