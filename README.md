@@ -69,8 +69,8 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 ![Team Player](https://img.shields.io/badge/Team-Player-9cf)
 ![Code Review](https://img.shields.io/badge/Code%20Review-Ready-yellow)
 
-![GitHub contributors](https://img.shields.io/github/contributors/R0KH0/[REPO](https://github.com/R0KH0/Real-Estate-and-Furniture-Marketplace)?color=blue)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/[REPO](https://github.com/R0KH0/Real-Estate-and-Furniture-Marketplace)?color=green)
+![GitHub contributors](https://img.shields.io/github/contributors/R0KH0/[REPO](Real-Estate-and-Furniture-Marketplace)?color=blue)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/[REPO](Real-Estate-and-Furniture-Marketplace)?color=green)
 
 
 
