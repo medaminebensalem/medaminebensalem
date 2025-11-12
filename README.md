@@ -61,7 +61,12 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
   </tr>
 </table>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)      
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)  
+
+![GitHub contributors](https://img.shields.io/github/contributors/USERNAME/REPO?color=blue)
+
+
+  
 
 ##  Connect with me:
 
