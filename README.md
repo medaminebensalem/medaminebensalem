@@ -63,15 +63,16 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)  
 
-## Collaboration
+## 🚀 Collaboration & Contributions
 
-Voici mes contributions et collaborations sur GitHub :
+Voici mes projets collaboratifs et mes contributions sur GitHub :
 
 | Projet | Rôle | Contributors | PRs Fermées |
 |--------|------|--------------|-------------|
-| [Projet 1](https://github.com/USERNAME/PROJET1) | Développement & Features | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET1?color=blue) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET1?color=green) |
-| [Projet 2](https://github.com/USERNAME/PROJET2) | Bugfix & Revue PR | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET2?color=orange) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET2?color=red) |
-| [Projet 3](https://github.com/USERNAME/PROJET3) | Tests & Documentation | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET3?color=purple) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET3?color=yellow) |
+| 🌟 [Projet 1](https://github.com/USERNAME/PROJET1) | Développement & Features | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET1?color=blue&style=for-the-badge) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET1?color=green&style=for-the-badge) |
+| 🔧 [Projet 2](https://github.com/USERNAME/PROJET2) | Bugfix & Revue PR | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET2?color=orange&style=for-the-badge) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET2?color=red&style=for-the-badge) |
+| 📝 [Projet 3](https://github.com/USERNAME/PROJET3) | Tests & Documentation | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET3?color=purple&style=for-the-badge) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET3?color=yellow&style=for-the-badge) |
+
 
 
 
