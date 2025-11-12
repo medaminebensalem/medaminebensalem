@@ -63,14 +63,16 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical)  
 
-  ## 🤝 Collaboration
+## Collaboration
 
-![Contributions](https://badges.pufler.dev/contributions/medaminebensalem?style=flat&color=blue&label=My%20Contributions)
-![Repositories](https://badges.pufler.dev/repos/medaminebensalem?style=flat&color=green&label=My%20Repos)
-![Commits](https://badges.pufler.dev/commits/monthly/medaminebensalem?style=flat&color=orange)
+Voici mes contributions et collaborations sur GitHub :
 
-![GitHub contributors](https://img.shields.io/github/contributors/R0KH0/Real-Estate-and-Furniture-Marketplace?color=blue)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/Real-Estate-and-Furniture-Marketplace?color=green)
+| Projet | Rôle | Contributors | PRs Fermées |
+|--------|------|--------------|-------------|
+| [Projet 1](https://github.com/USERNAME/PROJET1) | Développement & Features | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET1?color=blue) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET1?color=green) |
+| [Projet 2](https://github.com/USERNAME/PROJET2) | Bugfix & Revue PR | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET2?color=orange) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET2?color=red) |
+| [Projet 3](https://github.com/USERNAME/PROJET3) | Tests & Documentation | ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET3?color=purple) | ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET3?color=yellow) |
+
 
 
 
