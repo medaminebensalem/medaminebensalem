@@ -65,9 +65,9 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 
   ## 🤝 Collaboration
 
-![OSS Contributor](https://img.shields.io/badge/OSS-Contributor-brightgreen)
-![Team Player](https://img.shields.io/badge/Team-Player-9cf)
-![Code Review](https://img.shields.io/badge/Code%20Review-Ready-yellow)
+![Contributions](https://badges.pufler.dev/contributions/medaminebensalem?style=flat&color=blue&label=My%20Contributions)
+![Repositories](https://badges.pufler.dev/repos/medaminebensalem?style=flat&color=green&label=My%20Repos)
+![Commits](https://badges.pufler.dev/commits/monthly/medaminebensalem?style=flat&color=orange)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/R0KH0/[REPO](Real-Estate-and-Furniture-Marketplace)?color=blue)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/[REPO](Real-Estate-and-Furniture-Marketplace)?color=green)
