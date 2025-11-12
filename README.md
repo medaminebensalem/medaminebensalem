@@ -61,18 +61,10 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
   </tr>
 </table>
 
-<!-- Stats + Collaborations sur la même ligne -->
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical" width="400" />
-  
-  <span>
-    
-    [Projet 1] (https://github.com/USERNAME/PROJET1) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET1?color=blue) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET1?color=green) <br>
-    [Projet 2](https://github.com/USERNAME/PROJET2) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET2?color=orange) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET2?color=red) <br>
-    [Projet 3](https://github.com/USERNAME/PROJET3) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET3?color=purple) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET3?color=yellow)
-    
-  </span>
-</p>
+| GitHub Stats | Collaborations |
+|--------------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical) | [Projet 1](https://github.com/USERNAME/PROJET1) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET1?color=blue) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET1?color=green) <br> [Projet 2](https://github.com/USERNAME/PROJET2) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET2?color=orange) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET2?color=red) <br> [Projet 3](https://github.com/USERNAME/PROJET3) ![Contributors](https://img.shields.io/github/contributors/USERNAME/PROJET3?color=purple) ![PRs Fermées](https://img.shields.io/github/issues-pr-closed/USERNAME/PROJET3?color=yellow) |
+
 
 
 
