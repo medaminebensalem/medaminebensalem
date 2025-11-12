@@ -70,7 +70,7 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 ![Commits](https://badges.pufler.dev/commits/monthly/medaminebensalem?style=flat&color=orange)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/R0KH0/Real-Estate-and-Furniture-Marketplace?color=blue)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/[REPO](Real-Estate-and-Furniture-Marketplace)?color=green)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/R0KH0/Real-Estate-and-Furniture-Marketplace?color=green)
 
 
 
