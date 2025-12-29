@@ -75,10 +75,6 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer MERN.
 
   
 
-##  Connect with me:
-
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/ben-salem-mohamed-amine/) [<img src="https://img.icons8.com/color/48/000000/blogger.png" width="30"/>](https://www.codewebhelp.pro/)[<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30"/>](https://www.youtube.com/@med__ab)[<img src="https://img.icons8.com/color/48/000000/tiktok--v1.png" width="30"/>](https://www.tiktok.com/@lwmedamine)
-
 
 
 
