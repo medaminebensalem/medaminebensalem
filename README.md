@@ -12,22 +12,7 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer **MERN** 🚀
 
 ---
 
-## 🔥 GitHub Activity Dashboard
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebensalem
-    &theme=dark
-    &hide_border=true
-    &ring=ff4d8d
-    &fire=ff4d8d
-    &currStreakLabel=ffcc00
-    &sideLabels=ffffff
-    &dates=58a6ff" 
-    alt="GitHub Streak Dashboard"
-    width="800"
-  />
-</p>
 
 
 
@@ -100,12 +85,4 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer **MERN** 🚀
 
 ---
 
-## 🤝 Projets & Collaborations
 
-🔹 **Real Estate & Furniture Marketplace**  
-[🔗 Voir le projet](https://github.com/R0KH0/Real-Estate-and-Furniture-Marketplace)  
-![Contributors](https://img.shields.io/github/contributors/R0KH0/Real-Estate-and-Furniture-Marketplace?color=blue)
-
----
-
-⭐ *N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !*
