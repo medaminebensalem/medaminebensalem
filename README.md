@@ -12,19 +12,23 @@ Hello ! I'm **Mohamed Amine**, Full Stack Web Developer **MERN** 🚀
 
 ---
 
-## 📊 GitHub Dashboard (Live)
+## 🔥 GitHub Activity Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&count_private=true&theme=radical" height="180"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebensalem
+    &theme=dark
+    &hide_border=true
+    &ring=ff4d8d
+    &fire=ff4d8d
+    &currStreakLabel=ffcc00
+    &sideLabels=ffffff
+    &dates=58a6ff" 
+    alt="GitHub Streak Dashboard"
+    width="800"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminebensalem&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=algolia"/>
-</p>
 
 
 ---
