@@ -73,6 +73,6 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
   </tr>
 </table>
 
-| GitHub Stats | Projets / Collaborations |
-|--------------|-------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical" alt="GitHub Stats"/> | [![Projet 1](https://img.shields.io/badge/Projet%201-blue?style=flat-square)](https://github.com/R0KH0/Real-Estate-and-Furniture-Marketplace) <br> ![Contributors](https://img.shields.io/github/contributors/R0KH0/Real-Estate-and-Furniture-Marketplace?color=blue) |
+| GitHub Stats | 
+|--------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical" alt="GitHub Stats"/> 
