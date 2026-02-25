@@ -58,19 +58,10 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=algolia" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=medaminebensalem&theme=dark&hide_border=true&border_radius=5" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=tokyonight)
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=radical" />
+![GitHub Streak](https://streak-stats.demolab.com?user=medaminebensalem&theme=tokyonight)
