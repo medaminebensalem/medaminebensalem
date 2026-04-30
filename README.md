@@ -12,50 +12,77 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-## Compétences
+## 🚀 Stack & Technologies
 
-### Développement Web
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+### 🌐 Développement Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,react,mongodb" />
 </p>
 
-### Programmation
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+---
+
+### 💻 Programmation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python" />
 </p>
 
-### Outils de Design
-<p>
+---
+
+### 🎨 Design & UI
+
+<p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 </p>
 
-### Systèmes d'exploitation
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-</p>
+---
 
-### Gestion de projet
-<p>
-  <img src="https://img.shields.io/badge/UML-DarkBlue?style=for-the-badge&logo=uml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+### ⚙️ Outils & Méthodologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
+  <img src="https://img.shields.io/badge/UML-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-<table align="center"> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <b>📈 Statistiques Générales</b> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=tokyonight" alt="Top Langs" /> <br /> <b>💻 Langages les plus utilisés</b> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://streak-stats.demolab.com?user=medaminebensalem&theme=tokyonight" alt="GitHub Streak" /> <br /> <b>🔥 Séquence de contributions</b> </td> </tr> </table>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=medaminebensalem&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminebensalem&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=medaminebensalem&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 🌟 À propos
+
+- 🔭 Passionné par le développement Full Stack
+- ⚛️ Intérêt particulier pour React & MERN Stack
+- 🧠 Toujours en apprentissage de nouvelles technologies
+- 🚀 Objectif : construire des applications modernes, performantes et scalables
+
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://github.com/medaminebensalem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Merci de visiter mon profil ✨
