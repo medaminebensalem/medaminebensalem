@@ -12,9 +12,9 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-## 🚀 Stack & Technologies
+##  Stack & Technologies
 
-### 🌐 Développement Web
+###  Développement Web
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,react,mongodb" />
@@ -22,7 +22,7 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-### 💻 Programmation
+###  Programmation
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,c,java,python" />
@@ -30,7 +30,7 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-### 🎨 Design & UI
+###  Design & UI
 
 <p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -39,7 +39,7 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-### ⚙️ Outils & Méthodologies
+###  Outils & Méthodologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
@@ -50,7 +50,7 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -64,16 +64,16 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 
 ---
 
-## 🌟 À propos
+##  À propos
 
-- 🔭 Passionné par le développement Full Stack
-- ⚛️ Intérêt particulier pour React & MERN Stack
-- 🧠 Toujours en apprentissage de nouvelles technologies
-- 🚀 Objectif : construire des applications modernes, performantes et scalables
+-  Passionné par le développement Full Stack
+-  Intérêt particulier pour React & MERN Stack
+-  Toujours en apprentissage de nouvelles technologies
+-  Objectif : construire des applications modernes, performantes et scalables
 
 ---
 
-## 📫 Contact
+##  Contact
 
 <p align="left">
   <a href="https://github.com/medaminebensalem">
