@@ -17,7 +17,7 @@ Hello ! I'm **Amine**, Full Stack Web Developer MERN.
 ###  Développement Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,react,mongodb,nextjs" />
 </p>
 
 ---
